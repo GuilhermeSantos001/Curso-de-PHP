@@ -1,0 +1,2 @@
+<?php
+$teste = 'Hello World!';
